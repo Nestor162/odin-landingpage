@@ -1,0 +1,45 @@
+/* GENERAL STYLES */
+body {
+    font-family: 'Roboto', sans-serif;
+}
+header, main, footer {
+    background-color: #1F2937;
+}
+
+
+/* HEADER */
+.header__link, .main__p {
+    font-size: 18px;
+    color:#E5E7EB;
+}
+
+.header__logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+/* MAIN SECTION */
+.main__title {
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+}
+
+.main__button {
+    color: #3882F6;
+}
+
+
+/* SECONDARY CONTENT */
+.quote {
+    background-color: #E5E7EB;
+}
+
+.quote__text {
+    font-size: 36px;
+    font-weight: 300;
+    color: #1F2937;
+}
+.call {
+    background-color: #3882F6;
+}
