@@ -31,6 +31,10 @@ header, main, footer {
 
 
 /* SECONDARY CONTENT */
+.complementary-info {
+    background-color: #fff;
+}
+
 .quote {
     background-color: #E5E7EB;
 }
