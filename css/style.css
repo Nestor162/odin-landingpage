@@ -8,6 +8,15 @@ header, main, footer {
 
 
 /* HEADER */
+.header{
+    display: flex;
+    justify-content: space-around;
+}
+
+.header__list {
+    display: flex;
+}
+
 .header__link, .main__p {
     font-size: 18px;
     color:#E5E7EB;
@@ -17,6 +26,7 @@ header, main, footer {
     font-size: 24px;
     color: #F9FAF8;
 }
+
 
 /* MAIN SECTION */
 .main__title {
